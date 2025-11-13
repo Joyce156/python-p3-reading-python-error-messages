@@ -1,3 +1,4 @@
-#!/usr/bin/env python3
+# Add two numbers correctly
+sum = 3 + 4
 
-wrong_type = 'abc' + 123
+print(sum)
